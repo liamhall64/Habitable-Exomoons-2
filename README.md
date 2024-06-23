@@ -6,4 +6,4 @@ As explained in detail in _Project Plan PXT992_, the project will span over 11 w
 3) Building a detectability test to test the effectiveness of our capability in detecting the moons with light curves and assess if any particular conditions are needed, as well as figuring out parameters which may be suitable for detecting moons with.
 4) Using these frameworks and detectability tests, shortlisted candidates will be created in which the detection of moons around these exoplanets are theoretically possible with current (or near-future) technology and thus could be candidates for possible follow-up observations.
 
-This is project is a **work-in-progress**. If you feel the need to contribute or throw 'pointers' at me please feel free to do so - It'll be much appreciated!
+This is project is a **work-in-progress** aiming to complete come September 2024. If you feel the need to contribute or throw 'pointers' at me please feel free to do so - It'll be much appreciated!
